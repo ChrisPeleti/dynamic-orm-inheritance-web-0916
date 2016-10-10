@@ -54,3 +54,4 @@ class InteractiveRecord
   end
 
 end
+#parent class will pass all of these versatile methods into child classes
